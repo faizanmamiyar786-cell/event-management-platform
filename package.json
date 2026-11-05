@@ -1,6 +1,6 @@
 {
   "name": "event-management-platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -44,5 +44,8 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.29",
     "typescript": "^5"
+  },
+  "overrides": {
+    "next": "15.5.29"
   }
 }
